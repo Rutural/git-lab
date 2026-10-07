@@ -9,3 +9,6 @@
 ## 오늘 배운 내용 정리
 1. git add와 git commit git cached 등을 이용해 조작하기
 2. git diff git status git log 등 다양한 조회기능
+
+## 학습 소감
+아직은 감만 겨우 잡힌 상태라. 이 감을 잊기 전에 빨리 내 것으로 만들어야겠다.
