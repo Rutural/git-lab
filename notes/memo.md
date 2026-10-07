@@ -5,3 +5,7 @@
 - 현재 폴더를 확인한다.
 - 파일을 작성하고 저장한다.
 - 변경 이유를 기록한다.
+
+## 오늘 배운 내용 정리
+1. git add와 git commit git cached 등을 이용해 조작하기
+2. git diff git status git log 등 다양한 조회기능
